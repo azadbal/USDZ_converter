@@ -15,3 +15,6 @@ Converts OBJ or FBX files to USDZ using Blender 4.0.
 - place the "USDZ_convert.BAT" file in a folder that contains a OBJ or FBX 3d model
 - double click to run it (or run it via CMD)
 - if successful, you'll have a USDZ file outputted into the same folder.
+
+### Note
+- As I am mainly using this for Realitycapture photogrammetry model conversions to USDZ file formats, I am importing OBJ's into Blender with a Y forward and Z Up coordinate system (which is how RealityCapture exports OBJs). FBX file imports are with default settings.
