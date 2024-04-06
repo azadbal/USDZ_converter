@@ -9,7 +9,7 @@ Converts OBJ or FBX files to USDZ using Blender 4.0.
 ### Setup
 - download the "Convert_to_USDZ.py" and "USDZ_convert.bat" files
 - place the "Convert_to_USDZ.py"  file into a "dependancy folder" wherever. (I have a bunch of various bat scripts that rely on various python scripts, so they all get placed in a dependacy folder)
-- open the "USDZ_convert" BAT file in notepad, and change the "BLENDER_PATH" and "PYTHON_SCRIPT" directories to match your config.
+- open the "USDZ_convert" BAT file in notepad, and change the "BLENDER_PATH" and "PYTHON_SCRIPT" directories to match your PC's config.
 
 ### Usage
 - place the "USDZ_convert.BAT" file in a folder that contains a OBJ or FBX 3d model
